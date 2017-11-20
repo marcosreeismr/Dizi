@@ -1,2 +1,0 @@
-# Dizi
-Basic Social Network
